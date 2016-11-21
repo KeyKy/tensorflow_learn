@@ -6,4 +6,5 @@ This is a Tensorflow implementation of svhn classification. I am a new learner o
 	python svhn_data_fd.py
 	```	
 Loss minimization:
+
 ![Loss](images/loss.png)
