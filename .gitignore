@@ -7,3 +7,5 @@ serving/
 tensorflow_install_cache/
 *.swp
 *.pyc
+*.prototxt
+*.tar.gz

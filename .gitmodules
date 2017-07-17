@@ -1,0 +1,3 @@
+[submodule "ovm/dlcommon"]
+	path = ovm/dlcommon
+	url = https://git.oschina.net/scutterkey/dlcommon.git
